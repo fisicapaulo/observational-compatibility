@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Observational Compatibility and Gaussian Covariance Invariants"
+abstract: "Supplementary research materials for observational compatibility, inverse problems, Gaussian time-frequency analysis, and stable covariance invariants."
+type: software
+
+authors:
+  - family-names: "Vieira"
+    given-names: "Paulo"
+    orcid: "https://orcid.org/0009-0003-7982-0836"
+    email: "paulovieira.editor@gmail.com"
+
+repository-code: "https://github.com/paulovieira/observational-compatibility"
+url: "https://github.com/paulovieira/observational-compatibility"
+
+keywords:
+  - "observational compatibility"
+  - "inverse problems"
+  - "time-frequency analysis"
+  - "short-time Fourier transform"
+  - "STFT"
+  - "spectrogram"
+  - "chirped Gaussian"
+  - "Gaussian covariance"
+  - "Wigner transform"
+  - "symplectic geometry"
+  - "metaplectic representation"
+
+license: "MIT AND CC-BY-4.0"
+
+version: "0.1.0"
+date-released: "2026-07-04"
+
+preferred-citation:
+  type: article
+  title: "Observational Compatibility and Stable Covariance Invariants in Gaussian Time-Frequency Analysis"
+  authors:
+    - family-names: "Vieira"
+      given-names: "Paulo"
+      orcid: "https://orcid.org/0009-0003-7982-0836"
+      email: "paulovieira.editor@gmail.com"
+  year: 2026
+  url: "https://github.com/paulovieira/observational-compatibility"
+  abstract: "This article introduces observational compatibility as a geometric formulation for non-injective inverse problems and proves a stable covariance identity for chirped Gaussian states observed through Gaussian time-frequency spectrograms."
